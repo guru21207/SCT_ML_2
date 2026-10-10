@@ -26,7 +26,7 @@ The Elbow Method was used to help select the number of clusters. Based on the re
 
 The scatter plot shows the customer groups identified by K-Means. The X markers represent the cluster centroids.
 
-![Customer Segmentation](plots/customer_segmentation.png)
+![Customer Segmentation](plots/customer__segmentation.png)
 
 ## Technologies Used
 - Python
